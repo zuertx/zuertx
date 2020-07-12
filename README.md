@@ -1,3 +1,3 @@
-A computer novice.
+A computer rookie.
 
 [Personal Blog](zuertx.tk)
