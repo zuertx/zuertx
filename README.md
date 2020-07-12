@@ -1,3 +1,3 @@
-一个计算机专业的菜鸟小白
+A computer novice.
 
-[个人博客](zuertx.tk)
+[Personal Blog](zuertx.tk)
