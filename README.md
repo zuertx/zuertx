@@ -1,3 +1,3 @@
 A computer rookie.
 
-[Personal Blog](zuertx.tk)
+[Personal Blog](https://zuertx.tk)
