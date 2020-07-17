@@ -3,3 +3,6 @@
 </a>
 
 # Zuertx
+> Still a college student.  
+And I love open source!
+
