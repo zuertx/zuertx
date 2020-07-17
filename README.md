@@ -11,4 +11,4 @@
 [![](https://img.shields.io/badge/-zuertx@gmail.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:zuertx_at_gmail.com)
 
 ## My Personal Blog Repo
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zuertx&repo=zuertx.github.io&show_owner=true)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zuertx&repo=zuertx.github.io&show_owner=true)](https://github.com/zuertx/zuertx.github.io)
