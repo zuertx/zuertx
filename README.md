@@ -1,5 +1,5 @@
 <a href="#">
-<img align="right" src="https://github-stats-zhakell.vercel.app/api?username=zuertx&show_icons=true&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zuertx&show_icons=true&hide_border=true">
 </a>
 
 # Zuertx
@@ -11,4 +11,4 @@
 [![](https://img.shields.io/badge/-zuertx@gmail.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:zuertx_at_gmail.com)
 
 ## My Personal Blog Repo
-[![ReadMe Card](https://github-stats-zhakell.vercel.app/api/pin/?username=zuertx&repo=zuertx.github.io&show_owner=true)](https://github.com/zuertx/zuertx.github.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zuertx&repo=zuertx.github.io&show_owner=true)](https://github.com/zuertx/zuertx.github.io)
