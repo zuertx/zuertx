@@ -12,3 +12,6 @@
 
 ## My Personal Blog Repo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zuertx&repo=zuertx.github.io&show_owner=true)](https://github.com/zuertx/zuertx.github.io)
+
+## My Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuertx&layout=compact)
