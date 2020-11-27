@@ -8,8 +8,6 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 331 Contributions in the Year 2020
- > 
 > 📦 27.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -47,18 +45,16 @@ Sunday       8 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 mins              ███████████████████░░░░░░   76.61% 
-Other                    0 secs              █████░░░░░░░░░░░░░░░░░░░░   23.39%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-pycharm                  3 mins              ███████████████████████░░   94.33% 
-Unknown Project          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   5.67%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
