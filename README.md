@@ -8,13 +8,13 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 6 Contributions in the Year 2021
+> 🏆 11 Contributions in the Year 2021
  > 
-> 📦 28.4 kB Used in Github's Storage 
+> 📦 31.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 6 Public Repositories 
+> 📜 8 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
@@ -63,9 +63,9 @@ Windows                  1 min               ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   2 repos             ████████████░░░░░░░░░░░░░   50.0% 
-HTML                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-JavaScript               1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.0%
+Python                   3 repos             ███████████████░░░░░░░░░░   60.0% 
+HTML                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+JavaScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0%
 
 ```
 
