@@ -1,8 +1,8 @@
 <a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zuertx&show_icons=true&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=rexp1ty&show_icons=true&hide_border=true">
 </a>
 
-# Zuertx
+# Rexp1ty
 > Still a college student.And I love open source!😃  
 
 <!--START_SECTION:waka-->
