@@ -49,18 +49,16 @@ Sunday       8 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      1 hr 4 mins         ██████████████████████░░░   87.89% 
-JSON                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.64% 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.47%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 13 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-vscode                   1 hr 13 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 13 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -78,7 +76,7 @@ JavaScript               1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/rexp1ty/rexp1ty/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/06/2021
+ Last Updated on 23/06/2021
 <!--END_SECTION:waka-->
 
 
